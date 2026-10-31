@@ -1,0 +1,6 @@
+{
+  "name": "Observatorio de Tendencias Marítimas - Caribe Colombiano",
+  "description": "Observatorio prospectivo estratégico del comercio marítimo y portuario en el Caribe colombiano aplicando metodologías de prospectiva: MICMAC, MACTOR, Ejes de Schwartz, Delphi y Matriz IGO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
